@@ -1,4 +1,4 @@
-
+Enhance Obsidian for macOS with elite Obsidian for macOS Plugin | database templates + version history, the #1 plugin. Includes database templates and version history for a
 
 
 
